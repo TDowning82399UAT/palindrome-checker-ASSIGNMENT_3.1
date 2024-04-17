@@ -1,0 +1,50 @@
+body{
+
+    background-color: rgb(34, 32, 32);
+    color: aqua;
+
+}
+h1{
+
+    color: aliceblue;
+
+}
+section{
+    padding-top: 45px;
+    padding-bottom: 45px;
+    text-align: justify;
+    border-style: ridge;
+    border-bottom-width:10px;
+    border-top-width: 15px;
+    border-radius: 45px;
+    border-color: blueviolet;
+    color: aqua;
+    
+
+}
+p{
+
+    color: aqua;
+
+}
+nav{
+
+    padding-bottom: 45px;
+
+}
+a{
+
+    color: aqua;
+
+}
+form{
+
+    padding: 100px;
+    border-style: solid;
+    border-color: crimson;
+    border-width: 5px;
+    border-radius: 15px;
+    border-left: 1/25px;
+    border-right: 1/25px;
+
+}
